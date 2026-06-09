@@ -6,7 +6,7 @@
         android:label="Wasit Wetland Centre"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCHN8zgXK26P0ULSCNbrHvru54n4ztS4N4"/>
+            android:value=""/>
 
         <activity
             android:name=".MainActivity"
