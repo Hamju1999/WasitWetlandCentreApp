@@ -1,7 +1,6 @@
 # Wasit Wetland Centre App
 
 **Sharjah Sustainability Award (9th Edition) - Smart Application for Biological Diversity**
-Skyline University College 
 
 ## Overview
 
